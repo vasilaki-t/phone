@@ -1,0 +1,18 @@
+{
+    "name": "vasilaki/phone",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "Vasilaki\\Phone\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Vasilaki",
+            "email": "vasilaki.t@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=7.4"
+    }
+}
